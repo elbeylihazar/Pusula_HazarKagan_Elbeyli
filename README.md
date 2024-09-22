@@ -1,4 +1,7 @@
 # Pusula_HazarKagan_Elbeyli
+**Hazar Kagan Elbeyli**  
+**Email: elbeylihazar@gmail.com**
+
  In-depth analysis and preprocessing of a drug side effects dataset using Python. Includes exploratory data analysis (EDA), data cleaning, and feature engineering
  
 This project involves an in-depth analysis and preprocessing of a drug side effects dataset using Python. The analysis includes the following steps:
@@ -46,6 +49,25 @@ Project Overview
 
     Clone the repository and run the scripts inside the scripts/ folder to analyze the dataset.
     Ensure the required Python libraries such as pandas, seaborn, and matplotlib are installed.
+
+    To run the project, follow these steps:
+
+    Clone the Repository:
+    Clone this project to your local machine:
+    
+    bash
+    Copy code
+    git clone https://github.com/elbeylihazar/Pusula_HazarKagan_Elbeyli.git
+    cd Pusula_HazarKagan_Elbeyli
+
+    Install Required Libraries:
+    Use the following command to install the necessary libraries for the project:
+    pip install pandas seaborn matplotlib scikit-learn
+
+    Run the Analysis Steps:
+    Execute the main Python script main.py to perform data loading, exploratory data analysis (EDA), data cleaning, and preprocessing:
+    python scripts/main.py
+
 
     Results:
     
